@@ -1,5 +1,5 @@
 <?php
-/*
+/**
 	diag_log.php
 
 	Part of NAS4Free (http://www.nas4free.org).
